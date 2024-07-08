@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 80%;
+  margin: 100px auto 100px;
+  text-align: center;
+}
+.button {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  border: cyan solid 2px;
+  margin: 20px 0px 20px;
+  cursor: pointer;
+}
+#gray {
+  background-color: gray;
+}
+#blue {
+  background-color: cadetblue;
+}
+#yellow {
+  background-color: yellow;
+}
+#green {
+  background-color: green;
+}
+#orange {
+  background-color: orange;
+}
